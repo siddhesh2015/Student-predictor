@@ -11,7 +11,7 @@ pip install -r requirements.txt
 python ml/train_model.py
 python backend/app.py
 ```
-Open http://127.0.0.1:5000
+Open http://13.61.155.165:5000
 
 Windows PowerShell activation:
 ```powershell
